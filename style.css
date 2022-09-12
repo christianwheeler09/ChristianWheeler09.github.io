@@ -1,0 +1,21 @@
+/*
+Color Scheme
+really-dark-blue-gray: #2C3639
+dark-blue-gray: #3F4E4F
+tan: #A27B5C
+light-gray: #DCD7C9
+*/
+
+body{
+    background-color: #2C3639;
+    color: #A27B5C;
+}
+
+a{
+    color: #DCD7C9;
+}
+
+table, th, td{
+    border: 1px solid #3F4E4F;
+    border-collapse: collapse;
+}
